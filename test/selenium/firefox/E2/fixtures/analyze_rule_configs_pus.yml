@@ -1,0 +1,19 @@
+--- 
+analyze_rule_configs_pus_006: 
+  analyze_rule_config_id: "4"
+  pu_id: "1"
+analyze_rule_configs_pus_001: 
+  analyze_rule_config_id: "5"
+  pu_id: "1"
+analyze_rule_configs_pus_002: 
+  analyze_rule_config_id: "6"
+  pu_id: "1"
+analyze_rule_configs_pus_003: 
+  analyze_rule_config_id: "1"
+  pu_id: "1"
+analyze_rule_configs_pus_004: 
+  analyze_rule_config_id: "2"
+  pu_id: "1"
+analyze_rule_configs_pus_005: 
+  analyze_rule_config_id: "3"
+  pu_id: "1"

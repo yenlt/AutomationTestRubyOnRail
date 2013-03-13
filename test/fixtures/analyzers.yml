@@ -1,0 +1,43 @@
+--- 
+analyzers_001: 
+  created_at: 2011-02-25 18:26:13
+  updated_at: 2011-02-25 18:26:13
+  analyzer_state_id: "1"
+  id: "1"
+  backend_id: "2"
+analyzers_002: 
+  created_at: 2011-02-25 18:26:13
+  updated_at: 2011-02-25 18:26:13
+  analyzer_state_id: "2"
+  id: "2"
+  backend_id: "2"
+analyzers_003: 
+  created_at: 2011-02-25 18:26:13
+  updated_at: 2011-02-25 18:26:13
+  analyzer_state_id: "3"
+  id: "3"
+  backend_id: "2"
+analyzers_004: 
+  created_at: 2011-02-25 18:26:13
+  updated_at: 2011-02-25 18:26:13
+  analyzer_state_id: "4"
+  id: "4"
+  backend_id: "2"
+analyzers_005: 
+  created_at: 2011-02-25 18:26:13
+  updated_at: 2011-02-25 18:26:13
+  analyzer_state_id: "5"
+  id: "5"
+  backend_id: "2"
+analyzers_006: 
+  created_at: 2011-02-25 18:26:13
+  updated_at: 2011-02-25 18:26:13
+  analyzer_state_id: "6"
+  id: "6"
+  backend_id: "2"
+analyzers_007: 
+  created_at: 2011-02-25 18:26:13
+  updated_at: 2011-02-25 18:26:13
+  analyzer_state_id: "7"
+  id: "7"
+  backend_id: "2"

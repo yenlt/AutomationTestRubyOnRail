@@ -1,0 +1,101 @@
+--- 
+email_settings_019: 
+  pj_id: "6"
+  analyze_process_event_id: "3"
+  user_ids: "1"
+  id: "23"
+email_settings_008: 
+  pj_id: "2"
+  analyze_process_event_id: "4"
+  user_ids: "1"
+  id: "8"
+email_settings_020: 
+  pj_id: "6"
+  analyze_process_event_id: "4"
+  user_ids: "1"
+  id: "24"
+email_settings_010: 
+  pj_id: "3"
+  analyze_process_event_id: "2"
+  user_ids: "1"
+  id: "10"
+email_settings_009: 
+  pj_id: "3"
+  analyze_process_event_id: "1"
+  user_ids: "1"
+  id: "9"
+email_settings_011: 
+  pj_id: "3"
+  analyze_process_event_id: "3"
+  user_ids: "1"
+  id: "11"
+email_settings_012: 
+  pj_id: "3"
+  analyze_process_event_id: "4"
+  user_ids: "1"
+  id: "12"
+email_settings_001: 
+  pj_id: "1"
+  analyze_process_event_id: "1"
+  user_ids: "1"
+  id: "1"
+email_settings_013: 
+  pj_id: "5"
+  analyze_process_event_id: "1"
+  user_ids: "1"
+  id: "17"
+email_settings_002: 
+  pj_id: "1"
+  analyze_process_event_id: "2"
+  user_ids: "1"
+  id: "2"
+email_settings_014: 
+  pj_id: "5"
+  analyze_process_event_id: "2"
+  user_ids: "1"
+  id: "18"
+email_settings_003: 
+  pj_id: "1"
+  analyze_process_event_id: "3"
+  user_ids: "1"
+  id: "3"
+email_settings_015: 
+  pj_id: "5"
+  analyze_process_event_id: "3"
+  user_ids: "1"
+  id: "19"
+email_settings_004: 
+  pj_id: "1"
+  analyze_process_event_id: "4"
+  user_ids: "1"
+  id: "4"
+email_settings_016: 
+  pj_id: "5"
+  analyze_process_event_id: "4"
+  user_ids: "1"
+  id: "20"
+email_settings_005: 
+  pj_id: "2"
+  analyze_process_event_id: "1"
+  user_ids: "1"
+  id: "5"
+email_settings_017: 
+  pj_id: "6"
+  analyze_process_event_id: "1"
+  user_ids: "1"
+  id: "21"
+email_settings_006: 
+  pj_id: "2"
+  analyze_process_event_id: "2"
+  user_ids: "1"
+  id: "6"
+email_settings_018: 
+  pj_id: "6"
+  analyze_process_event_id: "2"
+  user_ids: "1"
+  id: "22"
+email_settings_007: 
+  pj_id: "2"
+  analyze_process_event_id: "3"
+  user_ids: "1"
+  id: "7"

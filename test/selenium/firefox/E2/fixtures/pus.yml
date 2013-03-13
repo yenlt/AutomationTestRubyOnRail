@@ -1,0 +1,13 @@
+--- 
+pus_001: 
+  name: SamplePU1
+  created_at: 2009-05-08 11:23:00
+  updated_at: 2009-05-08 11:23:00
+  registry_user: "0"
+  id: "1"
+pus_002: 
+  name: SamplePU2
+  created_at: 2009-06-08 12:32:00
+  updated_at: 2009-06-08 12:32:00
+  registry_user: "0"
+  id: "2"

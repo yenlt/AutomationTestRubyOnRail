@@ -1,0 +1,19 @@
+--- 
+analyze_rule_configs_pjs_006: 
+  pj_id: "1"
+  analyze_rule_config_id: "10"
+analyze_rule_configs_pjs_001: 
+  pj_id: "1"
+  analyze_rule_config_id: "11"
+analyze_rule_configs_pjs_002: 
+  pj_id: "1"
+  analyze_rule_config_id: "12"
+analyze_rule_configs_pjs_003: 
+  pj_id: "1"
+  analyze_rule_config_id: "7"
+analyze_rule_configs_pjs_004: 
+  pj_id: "1"
+  analyze_rule_config_id: "8"
+analyze_rule_configs_pjs_005: 
+  pj_id: "1"
+  analyze_rule_config_id: "9"

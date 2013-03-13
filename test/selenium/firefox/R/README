@@ -1,0 +1,19 @@
+RSF Selenium Tests
+===========================
+
+The following tests are not implemented because of unsupport from Selenium library.
+These tests must work on Download/Upload dialog boxes
+
+(1) On Firefox
+- Tests 013, 014
+- Tests 092, 093
+- Tests 133, 134
+- Tests 172, 173
+- Tests 209, 210
+
+
+(2) On Internet Explorer
+- All the tests above
+- Tests from 094 to 146
+- Tests from 174 to 185
+- Tests from 211 to 222

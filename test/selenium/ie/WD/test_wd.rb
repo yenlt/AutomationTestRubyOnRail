@@ -1,0 +1,6 @@
+require File.dirname(__FILE__) + "/../../firefox/WD/test_wd1"
+require File.dirname(__FILE__) + "/../../firefox/WD/test_wd2"
+require File.dirname(__FILE__) + "/test_wd3"
+require File.dirname(__FILE__) + "/../../firefox/WD/test_wd4"
+require File.dirname(__FILE__) + "/../../firefox/WD/test_wd5"
+require File.dirname(__FILE__) + "/../../firefox/WD/test_wd6"

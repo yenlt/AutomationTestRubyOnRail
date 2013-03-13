@@ -1,0 +1,16 @@
+In order to execute selenium test codes:
+
+1. Preparation
+  1.1. Create a database for testing: toscana_dev
+  1.2. Import data from toscana_dev.sql into the database toscana_dev
+  1.3.
+    FrontEnd $ rake db:migrate
+    FrontEnd $ rake db:fixtures:load
+
+2. Testing
+  2.1. Start FrontEnd server
+    FrontEnd $ script/server
+  2.2. Start Selenium server
+    <Selenium server directory> $ java -jar selenium-server.jar
+  2.3. Enter the directory "test/selenium" and run test codes
+    $ ruby run.rb

@@ -1,0 +1,12 @@
+firefox:
+  server_host: localhost
+  server_port: 4444
+  browserStartCommand: '*firefox'
+  browserURL: http://localhost:3000
+  timeout: 10000
+ie:
+  server_host: localhost
+  server_port: 4444
+  browserStartCommand: '*iexplore'
+  browserURL: http://localhost:3000
+  timeout: 10000

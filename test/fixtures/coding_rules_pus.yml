@@ -1,0 +1,445 @@
+--- 
+coding_rules_pus_128: 
+  coding_rule_id: "128"
+  pu_id: "0"
+coding_rules_pus_042: 
+  coding_rule_id: "42"
+  pu_id: "0"
+coding_rules_pus_014: 
+  coding_rule_id: "14"
+  pu_id: "0"
+coding_rules_pus_071: 
+  coding_rule_id: "71"
+  pu_id: "0"
+coding_rules_pus_129: 
+  coding_rule_id: "129"
+  pu_id: "0"
+coding_rules_pus_043: 
+  coding_rule_id: "43"
+  pu_id: "0"
+coding_rules_pus_015: 
+  coding_rule_id: "15"
+  pu_id: "0"
+coding_rules_pus_072: 
+  coding_rule_id: "72"
+  pu_id: "0"
+coding_rules_pus_044: 
+  coding_rule_id: "44"
+  pu_id: "0"
+coding_rules_pus_016: 
+  coding_rule_id: "16"
+  pu_id: "0"
+coding_rules_pus_073: 
+  coding_rule_id: "73"
+  pu_id: "0"
+coding_rules_pus_045: 
+  coding_rule_id: "45"
+  pu_id: "0"
+coding_rules_pus_100: 
+  coding_rule_id: "100"
+  pu_id: "0"
+coding_rules_pus_017: 
+  coding_rule_id: "17"
+  pu_id: "0"
+coding_rules_pus_074: 
+  coding_rule_id: "74"
+  pu_id: "0"
+coding_rules_pus_101: 
+  coding_rule_id: "101"
+  pu_id: "0"
+coding_rules_pus_018: 
+  coding_rule_id: "18"
+  pu_id: "0"
+coding_rules_pus_046: 
+  coding_rule_id: "46"
+  pu_id: "0"
+coding_rules_pus_130: 
+  coding_rule_id: "130"
+  pu_id: "0"
+coding_rules_pus_102: 
+  coding_rule_id: "102"
+  pu_id: "0"
+coding_rules_pus_019: 
+  coding_rule_id: "19"
+  pu_id: "0"
+coding_rules_pus_075: 
+  coding_rule_id: "75"
+  pu_id: "0"
+coding_rules_pus_047: 
+  coding_rule_id: "47"
+  pu_id: "0"
+coding_rules_pus_131: 
+  coding_rule_id: "131"
+  pu_id: "0"
+coding_rules_pus_076: 
+  coding_rule_id: "76"
+  pu_id: "0"
+coding_rules_pus_048: 
+  coding_rule_id: "48"
+  pu_id: "0"
+coding_rules_pus_103: 
+  coding_rule_id: "103"
+  pu_id: "0"
+coding_rules_pus_132: 
+  coding_rule_id: "132"
+  pu_id: "0"
+coding_rules_pus_077: 
+  coding_rule_id: "77"
+  pu_id: "0"
+coding_rules_pus_049: 
+  coding_rule_id: "49"
+  pu_id: "0"
+coding_rules_pus_104: 
+  coding_rule_id: "104"
+  pu_id: "0"
+coding_rules_pus_133: 
+  coding_rule_id: "133"
+  pu_id: "0"
+coding_rules_pus_078: 
+  coding_rule_id: "78"
+  pu_id: "0"
+coding_rules_pus_105: 
+  coding_rule_id: "105"
+  pu_id: "0"
+coding_rules_pus_134: 
+  coding_rule_id: "134"
+  pu_id: "0"
+coding_rules_pus_020: 
+  coding_rule_id: "20"
+  pu_id: "0"
+coding_rules_pus_079: 
+  coding_rule_id: "79"
+  pu_id: "0"
+coding_rules_pus_106: 
+  coding_rule_id: "106"
+  pu_id: "0"
+coding_rules_pus_135: 
+  coding_rule_id: "135"
+  pu_id: "0"
+coding_rules_pus_021: 
+  coding_rule_id: "21"
+  pu_id: "0"
+coding_rules_pus_107: 
+  coding_rule_id: "107"
+  pu_id: "0"
+coding_rules_pus_050: 
+  coding_rule_id: "50"
+  pu_id: "0"
+coding_rules_pus_136: 
+  coding_rule_id: "136"
+  pu_id: "0"
+coding_rules_pus_022: 
+  coding_rule_id: "22"
+  pu_id: "0"
+coding_rules_pus_108: 
+  coding_rule_id: "108"
+  pu_id: "0"
+coding_rules_pus_051: 
+  coding_rule_id: "51"
+  pu_id: "0"
+coding_rules_pus_137: 
+  coding_rule_id: "137"
+  pu_id: "0"
+coding_rules_pus_023: 
+  coding_rule_id: "23"
+  pu_id: "0"
+coding_rules_pus_080: 
+  coding_rule_id: "80"
+  pu_id: "0"
+coding_rules_pus_109: 
+  coding_rule_id: "109"
+  pu_id: "0"
+coding_rules_pus_052: 
+  coding_rule_id: "52"
+  pu_id: "0"
+coding_rules_pus_138: 
+  coding_rule_id: "138"
+  pu_id: "0"
+coding_rules_pus_024: 
+  coding_rule_id: "24"
+  pu_id: "0"
+coding_rules_pus_081: 
+  coding_rule_id: "81"
+  pu_id: "0"
+coding_rules_pus_139: 
+  coding_rule_id: "139"
+  pu_id: "0"
+coding_rules_pus_082: 
+  coding_rule_id: "82"
+  pu_id: "0"
+coding_rules_pus_053: 
+  coding_rule_id: "53"
+  pu_id: "0"
+coding_rules_pus_025: 
+  coding_rule_id: "25"
+  pu_id: "0"
+coding_rules_pus_083: 
+  coding_rule_id: "83"
+  pu_id: "0"
+coding_rules_pus_054: 
+  coding_rule_id: "54"
+  pu_id: "0"
+coding_rules_pus_026: 
+  coding_rule_id: "26"
+  pu_id: "0"
+coding_rules_pus_084: 
+  coding_rule_id: "84"
+  pu_id: "0"
+coding_rules_pus_055: 
+  coding_rule_id: "55"
+  pu_id: "0"
+coding_rules_pus_110: 
+  coding_rule_id: "110"
+  pu_id: "0"
+coding_rules_pus_027: 
+  coding_rule_id: "27"
+  pu_id: "0"
+coding_rules_pus_140: 
+  coding_rule_id: "140"
+  pu_id: "0"
+coding_rules_pus_085: 
+  coding_rule_id: "85"
+  pu_id: "0"
+coding_rules_pus_056: 
+  coding_rule_id: "56"
+  pu_id: "0"
+coding_rules_pus_111: 
+  coding_rule_id: "111"
+  pu_id: "0"
+coding_rules_pus_028: 
+  coding_rule_id: "28"
+  pu_id: "0"
+coding_rules_pus_057: 
+  coding_rule_id: "57"
+  pu_id: "0"
+coding_rules_pus_112: 
+  coding_rule_id: "112"
+  pu_id: "0"
+coding_rules_pus_029: 
+  coding_rule_id: "29"
+  pu_id: "0"
+coding_rules_pus_141: 
+  coding_rule_id: "141"
+  pu_id: "0"
+coding_rules_pus_086: 
+  coding_rule_id: "86"
+  pu_id: "0"
+coding_rules_pus_058: 
+  coding_rule_id: "58"
+  pu_id: "0"
+coding_rules_pus_113: 
+  coding_rule_id: "113"
+  pu_id: "0"
+coding_rules_pus_142: 
+  coding_rule_id: "142"
+  pu_id: "0"
+coding_rules_pus_087: 
+  coding_rule_id: "87"
+  pu_id: "0"
+coding_rules_pus_059: 
+  coding_rule_id: "59"
+  pu_id: "0"
+coding_rules_pus_114: 
+  coding_rule_id: "114"
+  pu_id: "0"
+coding_rules_pus_143: 
+  coding_rule_id: "143"
+  pu_id: "0"
+coding_rules_pus_115: 
+  coding_rule_id: "115"
+  pu_id: "0"
+coding_rules_pus_001: 
+  coding_rule_id: "1"
+  pu_id: "0"
+coding_rules_pus_030: 
+  coding_rule_id: "30"
+  pu_id: "0"
+coding_rules_pus_088: 
+  coding_rule_id: "88"
+  pu_id: "0"
+coding_rules_pus_144: 
+  coding_rule_id: "144"
+  pu_id: "0"
+coding_rules_pus_116: 
+  coding_rule_id: "116"
+  pu_id: "0"
+coding_rules_pus_002: 
+  coding_rule_id: "2"
+  pu_id: "0"
+coding_rules_pus_089: 
+  coding_rule_id: "89"
+  pu_id: "0"
+coding_rules_pus_145: 
+  coding_rule_id: "145"
+  pu_id: "0"
+coding_rules_pus_117: 
+  coding_rule_id: "117"
+  pu_id: "0"
+coding_rules_pus_003: 
+  coding_rule_id: "3"
+  pu_id: "0"
+coding_rules_pus_060: 
+  coding_rule_id: "60"
+  pu_id: "0"
+coding_rules_pus_031: 
+  coding_rule_id: "31"
+  pu_id: "0"
+coding_rules_pus_146: 
+  coding_rule_id: "146"
+  pu_id: "0"
+coding_rules_pus_118: 
+  coding_rule_id: "118"
+  pu_id: "0"
+coding_rules_pus_061: 
+  coding_rule_id: "61"
+  pu_id: "0"
+coding_rules_pus_032: 
+  coding_rule_id: "32"
+  pu_id: "0"
+coding_rules_pus_004: 
+  coding_rule_id: "4"
+  pu_id: "0"
+coding_rules_pus_147: 
+  coding_rule_id: "147"
+  pu_id: "0"
+coding_rules_pus_119: 
+  coding_rule_id: "119"
+  pu_id: "0"
+coding_rules_pus_062: 
+  coding_rule_id: "62"
+  pu_id: "0"
+coding_rules_pus_033: 
+  coding_rule_id: "33"
+  pu_id: "0"
+coding_rules_pus_005: 
+  coding_rule_id: "5"
+  pu_id: "0"
+coding_rules_pus_090: 
+  coding_rule_id: "90"
+  pu_id: "0"
+coding_rules_pus_148: 
+  coding_rule_id: "148"
+  pu_id: "0"
+coding_rules_pus_063: 
+  coding_rule_id: "63"
+  pu_id: "0"
+coding_rules_pus_034: 
+  coding_rule_id: "34"
+  pu_id: "0"
+coding_rules_pus_006: 
+  coding_rule_id: "6"
+  pu_id: "0"
+coding_rules_pus_091: 
+  coding_rule_id: "91"
+  pu_id: "0"
+coding_rules_pus_035: 
+  coding_rule_id: "35"
+  pu_id: "0"
+coding_rules_pus_007: 
+  coding_rule_id: "7"
+  pu_id: "0"
+coding_rules_pus_092: 
+  coding_rule_id: "92"
+  pu_id: "0"
+coding_rules_pus_064: 
+  coding_rule_id: "64"
+  pu_id: "0"
+coding_rules_pus_036: 
+  coding_rule_id: "36"
+  pu_id: "0"
+coding_rules_pus_008: 
+  coding_rule_id: "8"
+  pu_id: "0"
+coding_rules_pus_093: 
+  coding_rule_id: "93"
+  pu_id: "0"
+coding_rules_pus_120: 
+  coding_rule_id: "120"
+  pu_id: "0"
+coding_rules_pus_065: 
+  coding_rule_id: "65"
+  pu_id: "0"
+coding_rules_pus_037: 
+  coding_rule_id: "37"
+  pu_id: "0"
+coding_rules_pus_009: 
+  coding_rule_id: "9"
+  pu_id: "0"
+coding_rules_pus_094: 
+  coding_rule_id: "94"
+  pu_id: "0"
+coding_rules_pus_121: 
+  coding_rule_id: "121"
+  pu_id: "0"
+coding_rules_pus_066: 
+  coding_rule_id: "66"
+  pu_id: "0"
+coding_rules_pus_038: 
+  coding_rule_id: "38"
+  pu_id: "0"
+coding_rules_pus_095: 
+  coding_rule_id: "95"
+  pu_id: "0"
+coding_rules_pus_122: 
+  coding_rule_id: "122"
+  pu_id: "0"
+coding_rules_pus_039: 
+  coding_rule_id: "39"
+  pu_id: "0"
+coding_rules_pus_096: 
+  coding_rule_id: "96"
+  pu_id: "0"
+coding_rules_pus_067: 
+  coding_rule_id: "67"
+  pu_id: "0"
+coding_rules_pus_123: 
+  coding_rule_id: "123"
+  pu_id: "0"
+coding_rules_pus_068: 
+  coding_rule_id: "68"
+  pu_id: "0"
+coding_rules_pus_124: 
+  coding_rule_id: "124"
+  pu_id: "0"
+coding_rules_pus_097: 
+  coding_rule_id: "97"
+  pu_id: "0"
+coding_rules_pus_010: 
+  coding_rule_id: "10"
+  pu_id: "0"
+coding_rules_pus_069: 
+  coding_rule_id: "69"
+  pu_id: "0"
+coding_rules_pus_125: 
+  coding_rule_id: "125"
+  pu_id: "0"
+coding_rules_pus_040: 
+  coding_rule_id: "40"
+  pu_id: "0"
+coding_rules_pus_098: 
+  coding_rule_id: "98"
+  pu_id: "0"
+coding_rules_pus_011: 
+  coding_rule_id: "11"
+  pu_id: "0"
+coding_rules_pus_126: 
+  coding_rule_id: "126"
+  pu_id: "0"
+coding_rules_pus_041: 
+  coding_rule_id: "41"
+  pu_id: "0"
+coding_rules_pus_099: 
+  coding_rule_id: "99"
+  pu_id: "0"
+coding_rules_pus_012: 
+  coding_rule_id: "12"
+  pu_id: "0"
+coding_rules_pus_127: 
+  coding_rule_id: "127"
+  pu_id: "0"
+coding_rules_pus_013: 
+  coding_rule_id: "13"
+  pu_id: "0"
+coding_rules_pus_070: 
+  coding_rule_id: "70"
+  pu_id: "0"

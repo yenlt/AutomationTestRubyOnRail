@@ -1,0 +1,1 @@
+require File.dirname(__FILE__) + "/../../firefox/F2/test_f2"

@@ -1,0 +1,76 @@
+--- 
+analyze_rule_configs_tasks_020: 
+  task_id: "8"
+  analyze_rule_config_id: "13"
+analyze_rule_configs_tasks_019: 
+  task_id: "18"
+  analyze_rule_config_id: "23"
+analyze_rule_configs_tasks_008: 
+  task_id: "25"
+  analyze_rule_config_id: "30"
+analyze_rule_configs_tasks_009: 
+  task_id: "1"
+  analyze_rule_config_id: "4"
+analyze_rule_configs_tasks_021: 
+  task_id: "19"
+  analyze_rule_config_id: "24"
+analyze_rule_configs_tasks_010: 
+  task_id: "15"
+  analyze_rule_config_id: "20"
+analyze_rule_configs_tasks_022: 
+  task_id: "9"
+  analyze_rule_config_id: "14"
+analyze_rule_configs_tasks_011: 
+  task_id: "26"
+  analyze_rule_config_id: "31"
+analyze_rule_configs_tasks_023: 
+  task_id: "20"
+  analyze_rule_config_id: "25"
+analyze_rule_configs_tasks_012: 
+  task_id: "3"
+  analyze_rule_config_id: "5"
+analyze_rule_configs_tasks_001: 
+  task_id: "11"
+  analyze_rule_config_id: "16"
+analyze_rule_configs_tasks_024: 
+  task_id: "10"
+  analyze_rule_config_id: "15"
+analyze_rule_configs_tasks_013: 
+  task_id: "16"
+  analyze_rule_config_id: "21"
+analyze_rule_configs_tasks_002: 
+  task_id: "22"
+  analyze_rule_config_id: "27"
+analyze_rule_configs_tasks_025: 
+  task_id: "21"
+  analyze_rule_config_id: "26"
+analyze_rule_configs_tasks_014: 
+  task_id: "27"
+  analyze_rule_config_id: "32"
+analyze_rule_configs_tasks_003: 
+  task_id: "23"
+  analyze_rule_config_id: "28"
+analyze_rule_configs_tasks_015: 
+  task_id: "5"
+  analyze_rule_config_id: "7"
+analyze_rule_configs_tasks_004: 
+  task_id: "12"
+  analyze_rule_config_id: "17"
+analyze_rule_configs_tasks_016: 
+  task_id: "17"
+  analyze_rule_config_id: "22"
+analyze_rule_configs_tasks_005: 
+  task_id: "13"
+  analyze_rule_config_id: "18"
+analyze_rule_configs_tasks_017: 
+  task_id: "28"
+  analyze_rule_config_id: "34"
+analyze_rule_configs_tasks_006: 
+  task_id: "24"
+  analyze_rule_config_id: "29"
+analyze_rule_configs_tasks_018: 
+  task_id: "6"
+  analyze_rule_config_id: "8"
+analyze_rule_configs_tasks_007: 
+  task_id: "14"
+  analyze_rule_config_id: "19"
