@@ -1,7 +1,0 @@
---- 
-analyze_rule_configs_pus_001: 
-  analyze_rule_config_id: "1"
-  pu_id: "1"
-analyze_rule_configs_pus_002: 
-  analyze_rule_config_id: "9"
-  pu_id: "3"
